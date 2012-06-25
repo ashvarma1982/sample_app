@@ -10,6 +10,7 @@ group :development, :test do
   gem  'rspec-rails', '2.10.0'
 end  
 
+gem 'annotate', '~> 2.4.1.beta', group: :development
 
 # Gems used only for assets and not required
 # in production environments by default.
